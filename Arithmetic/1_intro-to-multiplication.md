@@ -4,3 +4,20 @@ Multiplication is like a shortcut for repeated addition. Instead of adding 2+2+2
 
 ## Multiplication as equal groups
 
+Let's dive into the concept of multiplication using the example of a squirrel collecting acorns.
+
+Every day the squirrel collects exactly 3 acorns. How many acorns will he have after doing this for 5 days?
+
+We can see it as equal groups. There is `5 groups` of `3 acorns`.
+
+It can be expressed as:
+- 5 times 3
+- `3 + 3 + 3 + 3 + 3` = `6 + 3 + 3 + 3` = `9 + 3 + 3` = `12 + 3` = `15`
+- `5 x 3` = `15`
+- 5 groups of 3 or 3 groups of 5
+
+## Multiplication as repeated addition
+
+`2 + 2 + 2 + 2 + 2 + 2` = `12`
+`6 x 2` = `12`
+`2 x 6` = `12`
