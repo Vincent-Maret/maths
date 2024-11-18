@@ -36,4 +36,12 @@ We call also represent it on a number line:
 
 ![image](https://github.com/user-attachments/assets/6f7dbc63-3b90-468c-bb43-b5ec320d3e4d)
 
+## Commutative property of multiplication
+
+![image](https://github.com/user-attachments/assets/36cd87d0-eda0-4eee-8c2c-1ec92970ffab)
+
+![image](https://github.com/user-attachments/assets/10174631-a80e-4baa-8dca-d378a83a1a55)
+
+
+
 
