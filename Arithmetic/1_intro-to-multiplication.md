@@ -21,3 +21,8 @@ It can be expressed as:
 `2 + 2 + 2 + 2 + 2 + 2` = `12`
 `6 x 2` = `12`
 `2 x 6` = `12`
+
+## Multiplication on the number line
+
+We can see multiplication as groups:
+
