@@ -1,4 +1,4 @@
-# Intro to multiplication
+/# Intro to multiplication
 
 Multiplication is like a shortcut for repeated addition. Instead of adding 2+2+2, you can multiply 2x3 and get the same answer! Whether you're using a number line, drawing groups of objects, or just crunching the numbers in your head.
 
@@ -27,6 +27,11 @@ It can be expressed as:
 We can see multiplication as groups:
 
 ![image](https://github.com/user-attachments/assets/baa55bce-a165-4cc6-8bf9-032f45905c21)
+
+We call also represent it on a number line:
+
+![image](https://github.com/user-attachments/assets/b36c0b17-78cc-49a5-a8da-1a19ad25c65a)
+
 
 
 
