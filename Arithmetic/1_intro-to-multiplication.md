@@ -32,6 +32,8 @@ We call also represent it on a number line:
 
 ![image](https://github.com/user-attachments/assets/b36c0b17-78cc-49a5-a8da-1a19ad25c65a)
 
+## Multiplication with arrays
 
+![image](https://github.com/user-attachments/assets/6f7dbc63-3b90-468c-bb43-b5ec320d3e4d)
 
 
