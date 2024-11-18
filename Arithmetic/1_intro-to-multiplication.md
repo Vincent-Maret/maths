@@ -26,3 +26,7 @@ It can be expressed as:
 
 We can see multiplication as groups:
 
+![image](https://github.com/user-attachments/assets/baa55bce-a165-4cc6-8bf9-032f45905c21)
+
+
+
