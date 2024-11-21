@@ -14,3 +14,4 @@ How to breakdown a multiplication question into simpler parts?
 
 ## Associative property of multiplication
 
+![image](https://github.com/user-attachments/assets/d7cea4c0-6f3c-44fc-8942-cc1e7b22dbe1)
