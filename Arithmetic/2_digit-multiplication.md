@@ -20,4 +20,6 @@ How to breakdown a multiplication question into simpler parts?
 
  ![image](https://github.com/user-attachments/assets/75a3a139-d858-4ebe-91d3-426e1b7ee327)
 
- 
+ 1. Multiplication is `commutative`. Order do not mater. `5 * 2 = 2 * 5`
+ 2. Multiplication is `associative`. Association do not mater. `(4 * 5) * 6 = 4 * (5 * 6) = 2 * 2 * 5 * 2 * 3`
+ 3. Multiplication is `distributive` with addition. `2 * (4 + 5) = 2 * 4 + 2 * 5`
