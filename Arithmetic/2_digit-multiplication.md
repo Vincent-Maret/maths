@@ -1,4 +1,4 @@
-# Digit multiplication
+/# Digit multiplication
 
 ## Distributive property when multiplying
 
@@ -23,3 +23,11 @@ How to breakdown a multiplication question into simpler parts?
  1. Multiplication is `commutative`. Order do not mater. `5 * 2 = 2 * 5`
  2. Multiplication is `associative`. Association do not mater. `(4 * 5) * 6 = 4 * (5 * 6) = 2 * 2 * 5 * 2 * 3`
  3. Multiplication is `distributive` with addition. `2 * (4 + 5) = 2 * 4 + 2 * 5`
+
+## Comparing with multiplication and addition
+
+![image](https://github.com/user-attachments/assets/a9a1d8b3-94a2-40c8-9be3-11fd6a5d0fb5)
+
+
+
+
